@@ -1,0 +1,12 @@
+{
+  "mod_title": "Менеджер Конфигураций",
+  "search_placeholder": "Поиск настроек...",
+  "reset_button": "Сбросить настройки",
+  "save_button": "Сохранить изменения",
+  "language_label": "Язык",
+  "theme_label": "Тема",
+  "theme_default": "Обычная",
+  "theme_dark": "Тёмная",
+  "theme_light": "Светлая",
+  "theme_purple": "Фиолетовая"
+}
