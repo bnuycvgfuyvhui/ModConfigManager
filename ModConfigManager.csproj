@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net35</TargetFramework>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ModConfigManager</RootNamespace>
+    <AssemblyName>ModConfigManager</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="*.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp" />
+    <Reference Include="UnityEngine" />
+    <Reference Include="SRML" />
+    <Reference Include="SRML.UI" />
+    <Reference Include="SRML.Config" />
+    <Reference Include="Newtonsoft.Json" />
+  </ItemGroup>
+
+</Project>
