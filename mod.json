@@ -1,0 +1,9 @@
+{
+  "ID": "ModConfigManager",
+  "Version": "1.0.0",
+  "Name": "Config Manager",
+  "Author": "bnuycvgfuyvhui",
+  "Description": "Менеджер конфигураций SRML-модов с локализациями, темами и UI.",
+  "EntryPoint": "ModConfigManager.ConfigManager",
+  "Dependencies": ["SRML", "SRML.UI", "SRML.Config"]
+}
