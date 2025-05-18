@@ -1,0 +1,12 @@
+{
+  "mod_title": "配置管理器",
+  "search_placeholder": "搜索设置...",
+  "reset_button": "重置为默认",
+  "save_button": "保存更改",
+  "language_label": "语言",
+  "theme_label": "主题",
+  "theme_default": "默认",
+  "theme_dark": "深色",
+  "theme_light": "浅色",
+  "theme_purple": "紫色"
+}
