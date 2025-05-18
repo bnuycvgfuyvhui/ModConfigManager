@@ -1,0 +1,12 @@
+{
+  "mod_title": "設定マネージャー",
+  "search_placeholder": "設定を検索...",
+  "reset_button": "デフォルトにリセット",
+  "save_button": "変更を保存",
+  "language_label": "言語",
+  "theme_label": "テーマ",
+  "theme_default": "デフォルト",
+  "theme_dark": "ダーク",
+  "theme_light": "ライト",
+  "theme_purple": "パープル"
+}
