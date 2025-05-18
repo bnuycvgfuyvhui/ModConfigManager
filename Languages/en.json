@@ -1,0 +1,12 @@
+{
+  "mod_title": "Configuration Manager",
+  "search_placeholder": "Search settings...",
+  "reset_button": "Reset to Default",
+  "save_button": "Save Changes",
+  "language_label": "Language",
+  "theme_label": "Theme",
+  "theme_default": "Default",
+  "theme_dark": "Dark",
+  "theme_light": "Light",
+  "theme_purple": "Purple"
+}
